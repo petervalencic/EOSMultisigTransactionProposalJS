@@ -1,0 +1,16 @@
+{
+  "name": "eosmultisig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eosjs": "^22.1.0",
+    "node-fetch": "^2.6.7",
+    "util": "^0.12.4"
+  }
+}
